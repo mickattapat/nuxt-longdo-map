@@ -1,5 +1,5 @@
 # longdo-nuxt2
-get api key [lomgdo map](https://map.longdo.com/console/)
+get api key [longdo map](https://map.longdo.com/console/)
 ## Build Setup
 
 ```bash
