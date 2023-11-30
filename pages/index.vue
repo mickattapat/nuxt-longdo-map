@@ -1,5 +1,5 @@
 <template>
-  <Tutorial/>
+  <NuxtLongdoMap/>
 </template>
 
 <script>
